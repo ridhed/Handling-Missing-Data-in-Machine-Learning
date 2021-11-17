@@ -24,11 +24,11 @@ Handling Missing Data in Titanic Problem using MCAR, MNAR, MAR.
 # Objective 
 * There are a variety of reasons that may lead to missing data, such as data corruption, lack of data availability during certain time periods, or bias in the data collection process (e.g. certain categories of respondents in a survey leave an answer blank).
 The important distinction to make here is whether or not your missing data is occurring at random.
-* In Missing_Value1 I have showcased how to categorise the missing data.
+* In Missing-Value1.ipynb I have showcased how to categorise the missing data.
   - MCAR, MNAR and MAR
   - I have also used Mean/ Median/ Mode Imputation.
   - Mean/ Median / Mode imputation has the assumption that the data are missing completely at random(MAR) I solve this by replacing the NaN with the most fequent occurace of the variables
-* In Missing_Value2 I have used Random Sample Impuataion.
+* In Missing-Value2.ipynb I have used Random Sample Impuataion.
    - Random sample imputation consists of taking random observation from the dataset and we use this obseravtion to replace the nan values.
    - It assumes that the data are missing completely at random(MCAR)
 
