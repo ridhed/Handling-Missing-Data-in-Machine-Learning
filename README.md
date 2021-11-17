@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![rsz_undraw_yacht_re_kkai](https://user-images.githubusercontent.com/83410546/142136092-8204a08b-96f7-47d6-b394-a0c8aa8f03ec.png)
+![rsz_undraw_yacht_re_kkai](https://user-images.githubusercontent.com/83410546/142136233-a9e7997d-6d56-4e67-a078-16c25de05311.png)
 
 # Handling-Missing-Data-in-Machine-Learning
 
